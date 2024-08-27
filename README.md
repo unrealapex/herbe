@@ -5,7 +5,7 @@
 
 ### Install
 ```bash
-git clone https://github.com/unrealapex/herbe
+git clone https://git.sr.ht/~unrealapex/herbe
 cd herbe
 sudo make clean install
 ```
