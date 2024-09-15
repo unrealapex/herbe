@@ -1,6 +1,7 @@
 # Aaron's build of herbe
 
 ### Patches
+- dynamic content
 - vertical stacking
 
 ### Install
@@ -14,5 +15,4 @@ sudo make clean install
 - font support
  - emoji
  - cjk
-- update notifications by pid
 - notification actions
