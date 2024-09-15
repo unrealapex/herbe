@@ -2,13 +2,13 @@ aaron's build of herbe
 ============================
 
 
-Patches
+patches
 ------------
 - dynamic content
 - vertical stacking
 
 
-Install
+install
 ------------
     git clone https://git.sr.ht/~unrealapex/herbe
     cd herbe
@@ -16,7 +16,7 @@ Install
     make clean install
 
 
-TODO
+todo
 ------------
 - font support
  - emoji
