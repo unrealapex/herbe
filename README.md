@@ -8,7 +8,8 @@
 ```sh
 git clone https://git.sr.ht/~unrealapex/herbe
 cd herbe
-sudo make clean install
+# may need to run as root
+make clean install
 ```
 
 ### TODO 
